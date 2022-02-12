@@ -8,6 +8,8 @@ Sam Erstad
 
 Steven Wilmes
 
+Corrected my own changes
+
 Here are some changes!
 
 I'm a god and good luck to the rest
