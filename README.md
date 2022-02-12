@@ -1,4 +1,4 @@
-Project Team Members: 
+Project Team Members:
 
 Noah Solano
 
@@ -8,7 +8,7 @@ Sam Erstad
 
 Steven Wilmes
 
-Bro this is hard and why isnt this working 
+Bro this is hard and why isnt this working
 
 Here are some changes!
 
@@ -22,4 +22,10 @@ Change
 
 Steve edited this line
 
-Another change
+CHANGE to main conflict test
+
+CHANGE to main conflict test
+
+CHANGE to main conflict test
+
+Lets try this again
