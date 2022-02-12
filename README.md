@@ -1,4 +1,8 @@
-Project Team Members: Braxton Wynne
+Project Team Members: 
+
+Noah Solano
+
+Braxton Wynne
 
 Sam Erstad
 
