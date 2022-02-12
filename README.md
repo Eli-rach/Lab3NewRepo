@@ -2,7 +2,7 @@ Project Team Members: Braxton Wynne
 
 Sam Erstad
 
-Sam Erstad
+Steven Wilmes
 
 Here are some changes!
 
@@ -13,3 +13,5 @@ Braxton Wynne has corrected this line
 Chandler Steel corrected this line
 
 Change
+
+Steve edited this line
