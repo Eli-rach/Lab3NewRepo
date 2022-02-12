@@ -1,4 +1,6 @@
-Project Team Member: Braxton Wynne
+Project Team Members: Braxton Wynne
+
+Sam Erstad
 
 Sam Erstad
 
