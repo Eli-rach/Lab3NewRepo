@@ -3,7 +3,6 @@ Project Team Members: Braxton Wynne
 Sam Erstad
 
 Steven Wilmes
->>>>>>> main
 
 Here are some changes!
 
