@@ -8,7 +8,7 @@ Sam Erstad
 
 Steven Wilmes
 
-Bro this is hard
+Bro this is hard and why isnt this working 
 
 Here are some changes!
 
